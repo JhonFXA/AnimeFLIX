@@ -1,0 +1,78 @@
+body {
+  font-family: cursive;
+  text-align: center;
+  background-image: url("https://media.istockphoto.com/vectors/abstract-dark-red-gradient-background-mesh-background-with-dark-frame-vector-id948117868?k=20&m=948117868&s=170667a&w=0&h=pmFg0FgGhRx6E54K1mfW3oh2Q9A_b_osFfR3NTQ1_T0=");
+  background-size: cover;
+}
+
+.aviso {
+  background-color: black;
+
+}
+
+p {
+color: white;
+text-shadow: 0px 0px 5px white;
+}
+
+.animeflix-logo {
+  border: solid 0px;
+  text-align: center;
+  margin: 100px;
+}
+
+.animeflix-logo:hover {
+  box-shadow: 0px 0px;
+  min-height: 22%;
+  min-width: 22%;
+  max-height: 22%;
+  max-width: 22%;
+  margin-top: 7.5%;
+  margin-left: 7.5%;
+ 
+}
+
+
+
+img {
+  margin: 10px;
+   max-height: 250px;
+  border: solid 5px black;
+}
+
+img:hover {
+ box-shadow: 0 0 1em red;
+  transition: 1.0s;
+  margin-top: 15px;
+  margin-left: 30px;
+  
+}  
+
+.add {
+  margin-bottom: 40px;
+}
+
+input {
+ box-shadow: 5px 5px black;
+  border: solid;
+}
+
+input:hover {
+width: 200px;
+height: 20px;
+transition: 0.5s;
+}
+
+button {
+  text-shadow: 0px 0px 10px red;
+  color: red;
+  background-color: black;
+  border: solid  1px red;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+
+button:hover {
+  color: black;
+  background: red;
+}
